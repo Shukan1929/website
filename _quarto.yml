@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Shukan Prajapati"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+      - href: Works.qmd
+        text: Works
+        
+      - href: Blog.qmd
+        text: Blogs      
+      - href: Contact.qmd
+        text: Contact        
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: youtube
+        href: https://www.youtube.com/
+      - icon: facebook
+        href: https://www.facebook.com/
+      - icon: envelope
+        href: mailto:shukan6014@gmail.com
+        
+        
+page-footer:
+  left: "&copy; Copyright 2024, SHUKAN"
+
+format:
+  html:
+    theme: cerulean
+    toc: true
+
+editor: source

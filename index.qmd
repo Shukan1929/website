@@ -1,0 +1,32 @@
+---
+title: "About Me"
+
+about:
+  id: Shukan Prajapati
+  template: broadside
+  image: img/profile.jpg
+---
+
+I Am Shukan Prajapati. I am a student of George Mason University. My major is Data Analytic Engineering.
+
+## Goals
+I would like to become a Data Analytics specialist who is capable of developing new and creative approaches to address the inherent challenges that arise from business processes. Specifically, I aspire to leverage my experience developing efficient models with minimal risk factors, utilizing relevant data from diverse sources. With a strong social conscience, I aim to work on real-world issues that impact people's lives daily. 
+
+## Education
+06/2021
+Bachelor of Engineering Technology - Computer Engineering
+From - GUJARAT TECHNOLOGICAL UNIVERSITY
+Gujarat,India
+3.3 GPA
+
+## Experience
+10/2021 - 11/2023
+ADMIN EXECUTIVE
+NMTG MECHTRANS TECHNIQUES PVT. LTD | Ahmedabad, India
+
+
+
+## SKILLS
+• Critical thinking , Problem solving , decision - making , Microsoft office , Having strong work ethics , Active listener , Adaptiveness
+
+        

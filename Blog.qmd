@@ -1,0 +1,15 @@
+---
+title: "My Blogs"
+
+author: "Shukan Prajapati"
+
+---
+
+# My First Blog Post
+
+Welcome to my first blog post on this website! Here, I'll share insights, updates, and stories about my journey.
+
+## Introduction
+
+This is a demo blog post. 
+
