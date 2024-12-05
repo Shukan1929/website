@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I Am Shukan Prajapati. I am a student of George Mason University. My major is Data Analytic Engineering."
+    "text": "I Am Shukan Prajapati. I am a Student of Cumberland University. My major is Information technology Management."
   },
   {
     "objectID": "index.html#goals",
@@ -51,9 +51,9 @@
   {
     "objectID": "Works.html#project-2",
     "href": "Works.html#project-2",
-    "title": "Work",
+    "title": "Project",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nAcademic Project: Beach Weather Data Analysis Analyzed seasonal weather patterns using Hadoop, Spark, and Flink. Utilized Python, R Studio, and SQL for visualization and actionable insights. Proposed recommendations for safety and tourism management."
   },
   {
     "objectID": "Works.html#project-3",
@@ -65,9 +65,9 @@
   {
     "objectID": "Blog.html",
     "href": "Blog.html",
-    "title": "My Blogs",
+    "title": "Career Strategy",
     "section": "",
-    "text": "Welcome to my first blog post on this website! Here, I’ll share insights, updates, and stories about my journey.\n\n\nThis is a demo blog post."
+    "text": "Gain expertise in data-driven IT management through certifications and projects. Secure a full-time role in process optimization and IT management. Enhance skills in AI, machine learning, and cloud computing. ## Long-Term Goals Transition to a leadership role in IT or analytics within five years. Establish a consultancy specializing in process optimization. Pursue executive certifications or advanced degrees. ## Adaptability Stay updated via professional networks, mentorship, and workshops. Continuously upgrade technical skills through online certifications."
   },
   {
     "objectID": "Blog.html#introduction",
@@ -109,6 +109,41 @@
     "href": "Contact.html#email",
     "title": "Contact",
     "section": "Email",
-    "text": "Email\nFeel free to send me an email shukan6014@gmail.com. I’ll try to respond as quickly as possible."
+    "text": "Email\nFeel free to send me an email shukan6015@gmail.com. I’ll try to respond as quickly as possible."
+  },
+  {
+    "objectID": "index.html#about-me-career-goals",
+    "href": "index.html#about-me-career-goals",
+    "title": "About Me",
+    "section": "About me & Career Goals",
+    "text": "About me & Career Goals\nWith a Bachelor’s in Computer Engineering and currently pursuing a Master’s in Information Technology Management, I bring extensive experience in IT, particularly in process optimisation, data analytics, and project management. My professional journey includes a role as a Data Admin Executive at NMTG Mechtance Tec Pvt. Ltd., where I developed expertise in managing data and enhancing operational efficiency. Key Strengths and Achievements: * Analytical Expertise: Proficient in Power BI, Tableau, Python, and R for data-driven decision-making. * Project Leadership: Improved operational efficiency by 17% through real-time KPI tracking. * Certifications: Lean Six Sigma Green Belt; pursuing AWS and advanced data analytics certifications. Career Goals * Short-Term: * Attain certifications in AWS, ISO/IEC 27001, and advanced analytics within six months. * Build expertise in cloud computing and IT automation. * Long-Term: * Lead IT project management or analytics teams within five years. * Mentor teams to adopt data-driven problem-solving approaches. * Develop sustainable IT systems that align with environmental goals."
+  },
+  {
+    "objectID": "index.html#leadership-philosophy",
+    "href": "index.html#leadership-philosophy",
+    "title": "About Me",
+    "section": "Leadership Philosophy",
+    "text": "Leadership Philosophy\nConflict Resolution Example During a project integrating predictive analytics into a manufacturing process, team members disagreed on priorities. I facilitated structured discussions using root cause analysis to address concerns, ensuring that all perspectives were considered. This approach fostered trust and clarified priorities, leading to the project’s successful completion.\nInsights on Collaboration I believe collaboration thrives in an environment of trust, open communication, and continuous learning. I encourage team brainstorming sessions and feedback loops, fostering shared learning and innovation."
+  },
+  {
+    "objectID": "Blog.html#short-term-goals",
+    "href": "Blog.html#short-term-goals",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "Gain expertise in data-driven IT management through certifications and projects. Secure a full-time role in process optimization and IT management. Enhance skills in AI, machine learning, and cloud computing. ## Long-Term Goals Transition to a leadership role in IT or analytics within five years. Establish a consultancy specializing in process optimization. Pursue executive certifications or advanced degrees. ## Adaptability Stay updated via professional networks, mentorship, and workshops. Continuously upgrade technical skills through online certifications."
+  },
+  {
+    "objectID": "Works.html",
+    "href": "Works.html",
+    "title": "Project",
+    "section": "",
+    "text": "Research Project: Big Data and Analytics in Financial Services Explored Big Data’s role in fraud detection, customer segmentation, and risk management. Investigated future trends like AI and blockchain integration. Addressed challenges in data privacy and compliance through case studies."
+  },
+  {
+    "objectID": "Works.html#project-1",
+    "href": "Works.html#project-1",
+    "title": "Project",
+    "section": "",
+    "text": "Research Project: Big Data and Analytics in Financial Services Explored Big Data’s role in fraud detection, customer segmentation, and risk management. Investigated future trends like AI and blockchain integration. Addressed challenges in data privacy and compliance through case studies."
   }
 ]

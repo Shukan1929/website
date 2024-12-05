@@ -1,0 +1,60 @@
+<html>
+
+<head>
+<title>Title</title>
+</head>
+
+<body>
+
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<!--begin.rcode
+summary(cars)
+end.rcode-->
+
+<p>You can also embed plots, for example:</p>
+
+<!--begin.rcode fig.width=7, fig.height=6
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Shukan Prajapati"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+      - href: Works.qmd
+        text: Projects
+        
+      - href: Blog.qmd
+        text: Career Strategy       
+      - href: Contact.qmd
+        text: Contact        
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: youtube
+        href: https://www.youtube.com/
+      - icon: facebook
+        href: https://www.facebook.com/
+      - icon: envelope
+        href: mailto:shukan6014@gmail.com
+        
+        
+page-footer:
+  left: "&copy; Copyright 2024, SHUKAN"
+
+format:
+  html:
+    theme: cerulean
+    toc: true
+
+editor: source
+
+end.rcode-->
+
+</body>
+</html>
