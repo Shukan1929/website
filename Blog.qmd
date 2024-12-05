@@ -1,15 +1,18 @@
 ---
-title: "My Blogs"
+title: "Career Strategy"
 
 author: "Shukan Prajapati"
 
 ---
 
-# My First Blog Post
-
-Welcome to my first blog post on this website! Here, I'll share insights, updates, and stories about my journey.
-
-## Introduction
-
-This is a demo blog post. 
-
+## Short-Term Goals
+Gain expertise in data-driven IT management through certifications and projects.
+Secure a full-time role in process optimization and IT management.
+Enhance skills in AI, machine learning, and cloud computing.
+## Long-Term Goals
+Transition to a leadership role in IT or analytics within five years.
+Establish a consultancy specializing in process optimization.
+Pursue executive certifications or advanced degrees.
+## Adaptability
+Stay updated via professional networks, mentorship, and workshops.
+Continuously upgrade technical skills through online certifications.

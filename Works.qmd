@@ -1,9 +1,18 @@
 ---
-title: "Work"
+title: "Project"
 ---
 
 ## Project 1
+Research Project: Big Data and Analytics in Financial Services
+Explored Big Data’s role in fraud detection, customer segmentation, and risk management.
+Investigated future trends like AI and blockchain integration.
+Addressed challenges in data privacy and compliance through case studies.
 
 ## Project 2
+Academic Project: Beach Weather Data Analysis
+Analyzed seasonal weather patterns using Hadoop, Spark, and Flink.
+Utilized Python, R Studio, and SQL for visualization and actionable insights.
+Proposed recommendations for safety and tourism management.
 
-## Project 3
+
+

@@ -7,11 +7,23 @@ about:
   image: img/profile.jpg
 ---
 
-I Am Shukan Prajapati. I am a student of George Mason University. My major is Data Analytic Engineering.
+I Am Shukan Prajapati. I am a Student of Cumberland University. My major is Information technology Management.
 
-## Goals
-I would like to become a Data Analytics specialist who is capable of developing new and creative approaches to address the inherent challenges that arise from business processes. Specifically, I aspire to leverage my experience developing efficient models with minimal risk factors, utilizing relevant data from diverse sources. With a strong social conscience, I aim to work on real-world issues that impact people's lives daily. 
-
+## About me & Career Goals
+With a Bachelor’s in Computer Engineering and currently pursuing a Master’s in Information Technology Management, I bring extensive experience in IT, particularly in process optimisation, data analytics, and project management. My professional journey includes a role as a Data Admin Executive at NMTG Mechtance Tec Pvt. Ltd., where I developed expertise in managing data and enhancing operational efficiency.
+Key Strengths and Achievements:
+* Analytical Expertise: Proficient in Power BI, Tableau, Python, and R for data-driven decision-making.
+* Project Leadership: Improved operational efficiency by 17% through real-time KPI tracking.
+* Certifications: Lean Six Sigma Green Belt; pursuing AWS and advanced data analytics certifications.
+Career Goals
+* Short-Term:
+    * Attain certifications in AWS, ISO/IEC 27001, and advanced analytics within six months.
+    * Build expertise in cloud computing and IT automation.
+* Long-Term:
+    * Lead IT project management or analytics teams within five years.
+    * Mentor teams to adopt data-driven problem-solving approaches.
+    * Develop sustainable IT systems that align with environmental goals.
+ 
 ## Education
 06/2021
 Bachelor of Engineering Technology - Computer Engineering
@@ -29,4 +41,9 @@ NMTG MECHTRANS TECHNIQUES PVT. LTD | Ahmedabad, India
 ## SKILLS
 • Critical thinking , Problem solving , decision - making , Microsoft office , Having strong work ethics , Active listener , Adaptiveness
 
-        
+## Leadership Philosophy
+Conflict Resolution Example
+During a project integrating predictive analytics into a manufacturing process, team members disagreed on priorities. I facilitated structured discussions using root cause analysis to address concerns, ensuring that all perspectives were considered. This approach fostered trust and clarified priorities, leading to the project’s successful completion.
+
+Insights on Collaboration
+I believe collaboration thrives in an environment of trust, open communication, and continuous learning. I encourage team brainstorming sessions and feedback loops, fostering shared learning and innovation.

@@ -10,10 +10,10 @@ website:
         text: Home
         
       - href: Works.qmd
-        text: Works
+        text: Projects
         
       - href: Blog.qmd
-        text: Blogs      
+        text: Career Strategy       
       - href: Contact.qmd
         text: Contact        
     tools:
